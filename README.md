@@ -1,2 +1,6 @@
-# oxfordnetworks-bayesiansbm-isinginference
-Miniproject submission for the course C5.4 'Networks' Hilary Term 2020/21 at Oxford University; title: 'Joint Bayesian stochastic block modelling and network inference from Ising-like dynamics'
+# Oxford C5.4 Networks miniproject: 'Joint Bayesian stochastic block modelling and network inference from Ising-like dynamics'
+Miniproject submission for the course [C5.4 'Networks'](https://courses-archive.maths.ox.ac.uk/node/49460) Hilary Term 2020/21 taught by Prof. Renaud Lambiotte at Oxford University.
+
+## Abstract
+Inferring modular structure via block modeling and its direct generalisation, stochastic block modeling, is among the most prominent approaches to the paradigmatic question of the inference of modular structure in network science. Another central problem in the theory of complex networks is the inference of networks from empirical data, where again the inference from observed network dynamics, for example from Ising-like models, is especially prominent. Bayesian stochastic blockmodelling forms a flexible framework, that provides a method to jointly solve both inference problems, which has been shown to be more effective than a separated approach (1). We review the general Bayesian stochastic blockmodeling framework, its generalisation to joint blockmodelling and network inference and the concrete realisation for an Ising-like 3-Potts model dynamic process. Furthermore we apply the method to a dataset of roll call votes of the German parliament Bundestag and discuss the results.
+(_citations refer to the references in `submission.pdf`_)
